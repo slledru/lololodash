@@ -7,8 +7,8 @@
     "type": "git",
     "url": "https://github.com/mdunisch/lololodash.git"
   },
-  "engines" : {
-    "node" : ">=4.0.0"
+  "engines": {
+    "node": ">=4.0.0"
   },
   "bin": "lololodash.js",
   "preferGlobal": true,
@@ -26,7 +26,7 @@
   "dependencies": {
     "colors-tmpl": "^1.0.0",
     "diff": "^3.2.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.5",
     "update-notifier": "^2.1.0",
     "workshopper": "^2.7.0",
     "workshopper-exercise": "^2.5.3"
